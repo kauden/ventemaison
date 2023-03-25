@@ -15,7 +15,6 @@ body {
   left: 1rem;
   z-index: 2;
   color: #fff;
-  text-shadow: 2px 2px;
 }
 
 .gd-modal-loaded .logo {
